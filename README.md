@@ -9,7 +9,7 @@ Inspired by [parrotsay](https://github.com/matheuss/parrotsay).
 
 ## Building.
 
-This has been tested only with gcc 6.3.0 in Debian Stretch.
+This has been tested only with gcc 6.3.0 and TinyCC 0.9.27 in Debian Stretch.
 
 To build just do
 
