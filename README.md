@@ -7,6 +7,12 @@ This is basically a naive re-implementation of cowsay, in C, with a colorful par
 
 Inspired by [parrotsay](https://github.com/matheuss/parrotsay).
 
+# ATTENTION
+
+The repository on [GitHub](https://github.com/federicoculloca/parrotsay-lite) is just a mirror.
+
+The main repository lives on my [private GOGS instance](https://git.klezlab.it/klez/parrotsay-lite).
+
 ## Building.
 
 This has been tested only with:
