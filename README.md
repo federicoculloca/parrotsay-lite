@@ -17,8 +17,4 @@ This has been tested only with:
 
 To build just do
 
-    gcc parrotsay.c -o parrotsay
-
-Or
-
-    clang parrotsay.c -o parrotsay
+	make
